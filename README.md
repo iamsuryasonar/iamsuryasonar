@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [iamsuryasonar.netlify.app](iamsuryasonar.netlify.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13xR78QwjFNJzhtQ2hQru6aK0DxCEuNQE/view?usp=sharing](https://drive.google.com/file/d/13xR78QwjFNJzhtQ2hQru6aK0DxCEuNQE/view?usp=sharing](https://drive.google.com/file/d/1zo2Jqj3roOG24mp1aHodE_1UWf2nGIln/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zo2Jqj3roOG24mp1aHodE_1UWf2nGIln/view](https://drive.google.com/file/d/1zo2Jqj3roOG24mp1aHodE_1UWf2nGIln/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
