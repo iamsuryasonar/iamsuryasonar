@@ -37,8 +37,8 @@
   - [TempMessage](https://tempmessage-service.onrender.com/)
      Built a system for photo and message sharing with expiring link.
 
-  - [Freecodecamp backend development and api]()
-      Freecodecamp backend projects.
+  - [Freecodecamp backend development and api](https://www.freecodecamp.org/certification/fccb65312fd-c2da-4f1b-8444-9e6288ad2bf3/back-end-development-and-apis)
+      Freecodecamp backend projects for backend development and api certification.
 
   - [Blur_container](https://pub.dev/packages/blur_container)
       A Flutter package for both android and iOS which provides Widget to blur a container. Deployed to pub.dev.
