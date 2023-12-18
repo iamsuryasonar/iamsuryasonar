@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Surya Sonar</h1>
 <h3 align="center">A passionate react developer from India</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently experimenting with my knowledge of **JavaScript and React**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://iamsuryasonar.netlify.app)
+- 👨‍💻 [Portfolio](https://iamsuryasonar.netlify.app)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zo2Jqj3roOG24mp1aHodE_1UWf2nGIln/view?usp=sharing)
 
@@ -20,7 +20,9 @@
 
 
 
-- Projects
+
+
+<h1 align="center">Projects</h1>
 
   - [Portfolio](https://iamsuryasonar.netlify.app)
       A portfolio site to display my skills and interests.
