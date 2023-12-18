@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 👨‍💻 All of my projects are available at [Portfolio](iamsuryasonar.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://iamsuryasonar.netlify.app)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13xR78QwjFNJzhtQ2hQru6aK0DxCEuNQE/view?usp=sharing)
 
