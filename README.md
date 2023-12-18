@@ -22,7 +22,7 @@
 
 - Projects
 
-  - [Portfolio](iamsuryasonar.netlify.app)
+  - [Portfolio](https://iamsuryasonar.netlify.app)
       A portfolio site to display my skills and interests.
     
   - [UniUrl](https://uniurl.netlify.app/)
