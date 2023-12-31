@@ -6,7 +6,8 @@
 - 👨‍💻 [Portfolio](https://iamsuryasonar.netlify.app)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zo2Jqj3roOG24mp1aHodE_1UWf2nGIln/view?usp=sharing)
-- Resources [javascript](https://github.com/iamsuryasonar/webdev-snippet/blob/main/README.md)
+- Resources
+     - [javascript](https://github.com/iamsuryasonar/webdev-snippet/blob/main/README.md)
      - [react](https://github.com/iamsuryasonar/webdev-snippet/blob/main/react.md)
 
 <h3 align="left">Connect with me:</h3>
