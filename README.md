@@ -43,7 +43,7 @@
      Built a system for photo and message sharing with expiring link.
 
   - [Freecodecamp backend development and api](https://www.freecodecamp.org/certification/fccb65312fd-c2da-4f1b-8444-9e6288ad2bf3/back-end-development-and-apis)
-      Freecodecamp backend projects for backend development and api certification.
+      Freecodecamp backend projects for backend development and api certification. Developed -> Timestamp Microservice, Request Header Parser Microservice, URL Shortener Microservice, Exercise Tracker, File Metadata Microservice for the certification.
 
   - [Chat application](https://github.com/iamsuryasonar/messengerapp)
       Chat application built using flutter and firebase realtime database. 
