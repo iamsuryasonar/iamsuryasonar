@@ -27,6 +27,12 @@
 
 <h1 align="center">Projects</h1>
 
+  - [Limo store](https://limo-store.netlify.app/)
+      A single vendor ecommerce site.
+    
+  - [Limo store admin panel](https://admin-limo.netlify.app/)
+      Admin panel for limo store where admin could add products, categories and manage orders.
+    
   - [Portfolio](https://iamsuryasonar.netlify.app)
       A portfolio site to display my skills and interests.
     
