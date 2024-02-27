@@ -63,6 +63,9 @@
   - [Todo app](https://codesandbox.io/p/github/iamsuryasonar/todo_app)
    Todo app - mark complete, undo completed todo, delete todo.
 
+  - [Infinite carousel](https://github.com/iamsuryasonar/ReactImageCarousalCodeTutorial.git)
+    React infinite carousel tutorial, to understand by visualising.
+  
   - [Product cart and total price calculation problem](https://codesandbox.io/p/github/iamsuryasonar/product_cart_and_total_price_calculation_problem)
     Implemented add to cart and calculated total price of all items in the cart.
 
