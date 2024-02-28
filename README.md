@@ -5,16 +5,16 @@
 
 - 👨‍💻 [Portfolio](https://iamsuryasonar.netlify.app)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zo2Jqj3roOG24mp1aHodE_1UWf2nGIln/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ucaQSQfxgITdHAXGZ-mleoUDF6q3CiPb/view?usp=drivesdk)
 - Resources
-     - [javascript](https://github.com/iamsuryasonar/webdev-snippet/blob/main/README.md)
+     - [javascript](https://github.com/iamsuryasonar/webdev-snippet/blob/main/javascript.md)
      - [react](https://github.com/iamsuryasonar/webdev-snippet/blob/main/react.md)
+- [Promises](https://github.com/iamsuryasonar/webdev-snippet/blob/main/promises.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamsuryasonar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsuryasonar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamsuryasonar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamsuryasonar" height="30" width="40" /></a>
-<a href="https://codesandbox.com/iamsuryasonar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iamsuryasonar" height="30" width="40" /></a>
 <a href="https://instagram.com/iamsuryasonar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsuryasonar" height="30" width="40" /></a>
 </p>
 
