@@ -9,7 +9,7 @@
 - Resources
      - [javascript](https://github.com/iamsuryasonar/webdev-snippet/blob/main/javascript.md)
      - [react](https://github.com/iamsuryasonar/webdev-snippet/blob/main/react.md)
-- [Promises](https://github.com/iamsuryasonar/webdev-snippet/blob/main/promises.md)
+     - [Promises](https://github.com/iamsuryasonar/webdev-snippet/blob/main/promises.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
