@@ -5,11 +5,9 @@
 
 - 👨‍💻 [Portfolio](https://iamsuryasonar.netlify.app)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c6414M0p3NAYT6l-9GgfShHaYLUo9VoA/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-TnWfNyaCNMsvqccNjKC3j0dTMap0yDm/view?usp=sharing)
 - Resources
-     - [javascript](https://github.com/iamsuryasonar/webdev-snippet/blob/main/javascript.md)
-     - [react](https://github.com/iamsuryasonar/webdev-snippet/blob/main/react.md)
-     - [Promises](https://github.com/iamsuryasonar/webdev-snippet/blob/main/Promises.md)
+     - [Web Snippets](https://github.com/iamsuryasonar/webdev-snippet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
