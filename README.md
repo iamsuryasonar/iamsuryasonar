@@ -36,9 +36,12 @@
     
   - [UniUrl](https://uniurl.netlify.app/)
       Url sharing site built with react as frontend and nodejs and express in the backend with mongo db.
-
+    
+  - [Instagram non followers checker](https://github.com/iamsuryasonar/instagram_analytic.git)
+    This project is a simple web application that allows users to check for Instagram non-followers by processing provided json file. It provides a convenient way to identify users who don't follow you back on Instagram.
+  
   - [FlutterNotes](https://github.com/iamsuryasonar/flutterNotes)
-      Notes app build using flutter and firebase.
+    Notes app build using flutter and firebase.
 
   - [WeatherApp](https://github.com/iamsuryasonar/weatherApp)
       Flutter weather app using one api by open weather.
