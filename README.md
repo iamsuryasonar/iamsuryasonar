@@ -25,66 +25,69 @@
 
 <h1 align="center">Projects</h1>
 
-  - [Limo store](https://limo-store.netlify.app/)
-      A single vendor ecommerce site.
+  - [Limo store](https://limo-store.netlify.app/) (hosted)
+    A single vendor ecommerce site.
     
-  - [Limo store admin panel](https://admin-limo.netlify.app/)
-      Admin panel for limo store where admin could add products, categories and manage orders.
+  - [Limo store admin panel](https://admin-limo.netlify.app/) (hosted)
+    Admin panel for limo store where admin could add products, categories and manage orders.
     
-  - [Portfolio](https://iamsuryasonar.netlify.app)
-      A portfolio site to display my skills and interests.
+  - [Portfolio](https://iamsuryasonar.netlify.app) (hosted)
+    A portfolio site to display my skills and interests.
     
-  - [UniUrl](https://uniurl.netlify.app/)
-      Url sharing site built with react as frontend and nodejs and express in the backend with mongo db.
+  - [UniUrl](https://uniurl.netlify.app/) (hosted)
+    Url sharing site built with react as frontend and nodejs and express in the backend with mongo db.
     
-  - [Instagram non followers checker](https://github.com/iamsuryasonar/instagram_analytic.git)
+  - [News 24x7](https://news24x7app.netlify.app/) (hosted)
+    A simple React app built with Tailwind CSS that displays news articles in a carousel format. Users can sort news articles by categories.
+    
+  - [Instagram non followers checker](https://github.com/iamsuryasonar/instagram_analytic.git) (not hosted)
     This project is a simple web application that allows users to check for Instagram non-followers by processing provided json file. It provides a convenient way to identify users who don't follow you back on Instagram.
   
-  - [FlutterNotes](https://github.com/iamsuryasonar/flutterNotes)
+  - [FlutterNotes](https://github.com/iamsuryasonar/flutterNotes) (not hosted)
     Notes app build using flutter and firebase.
 
-  - [WeatherApp](https://github.com/iamsuryasonar/weatherApp)
-      Flutter weather app using one api by open weather.
+  - [WeatherApp](https://github.com/iamsuryasonar/weatherApp) (not hosted)
+    Flutter weather app using one api by open weather.
 
-  - [TempMessage](https://tempmessage-service.onrender.com/)
-     Built a system for photo and message sharing with expiring link.
+  - [TempMessage](https://tempmessage-service.onrender.com/) (hosted)
+    Built a system for photo and message sharing with expiring link.
 
   - [Freecodecamp backend development and api](https://www.freecodecamp.org/certification/fccb65312fd-c2da-4f1b-8444-9e6288ad2bf3/back-end-development-and-apis)
-      Freecodecamp backend projects for backend development and api certification. Developed -> Timestamp Microservice, Request Header Parser Microservice, URL Shortener Microservice, Exercise Tracker, File Metadata Microservice for the certification.
+    Freecodecamp backend projects for backend development and api certification. Developed -> Timestamp Microservice, Request Header Parser Microservice, URL Shortener Microservice, Exercise Tracker, File Metadata Microservice for the certification.
 
-  - [Chat application](https://github.com/iamsuryasonar/messengerapp)
-      Chat application built using flutter and firebase realtime database. 
+  - [Chat application](https://github.com/iamsuryasonar/messengerapp) (not hosted)
+    Chat application built using flutter and firebase realtime database. 
 
-  - [Blur_container](https://pub.dev/packages/blur_container)
-      A Flutter package for both android and iOS which provides Widget to blur a container. Deployed to pub.dev.
+  - [Blur_container](https://pub.dev/packages/blur_container) (published to pub.dev)
+    A Flutter package for both android and iOS which provides Widget to blur a container. Deployed to pub.dev.
 
-  - [NoteBook](https://github.com/iamsuryasonar/NoteBook)
+  - [NoteBook](https://github.com/iamsuryasonar/NoteBook) (not hosted)
     Note taking app built with java and firebase.
   
-  - [CryptoRank](https://github.com/iamsuryasonar/CryptoRank)
+  - [CryptoRank](https://github.com/iamsuryasonar/CryptoRank) (not hosted)
     Used CoinCap rest api to rank cryptocurrencies.
 
-  - [Slider piechart problem](https://codesandbox.io/p/github/iamsuryasonar/slider_piechart_problem)
-     Built a slider, on increasing/ decreasing the slider, value should reflect in a pieChart.
+  - [Slider piechart problem](https://codesandbox.io/p/github/iamsuryasonar/slider_piechart_problem) (code sandbox)
+    Built a slider, on increasing/ decreasing the slider, value should reflect in a pieChart.
 
-  - [Todo app](https://codesandbox.io/p/github/iamsuryasonar/todo_app)
-   Todo app - mark complete, undo completed todo, delete todo.
+  - [Todo app](https://codesandbox.io/p/github/iamsuryasonar/todo_app) (code sandbox)
+    Todo app - mark complete, undo completed todo, delete todo.
 
-  - [Infinite carousel](https://github.com/iamsuryasonar/ReactImageCarousalCodeTutorial.git)
+  - [Infinite carousel](https://codesandbox.io/p/github/iamsuryasonar/ReactImageCarousel) (code sandbox)
     React infinite carousel tutorial, to understand by visualising.
   
-  - [Product cart and total price calculation problem](https://codesandbox.io/p/github/iamsuryasonar/product_cart_and_total_price_calculation_problem)
+  - [Product cart and total price calculation problem](https://codesandbox.io/p/github/iamsuryasonar/product_cart_and_total_price_calculation_problem) (code sandbox)
     Implemented add to cart and calculated total price of all items in the cart.
 
-  - [Traffic light problem](https://codesandbox.io/p/github/iamsuryasonar/traffic_light_problem/main)
-   Built a traffic light where the lights switch from green to yellow to red after predetermined intervals and loop indefinitely.
+  - [Traffic light problem](https://codesandbox.io/p/github/iamsuryasonar/traffic_light_problem/main) (code sandbox)
+    Built a traffic light where the lights switch from green to yellow to red after predetermined intervals and loop indefinitely.
 
-  - [Grid lights problem](https://codesandbox.io/p/github/iamsuryasonar/grid_lights_problem)
-   Built a grid of lights where the lights deactivate in the reverse order they were activated.
+  - [Grid lights problem](https://codesandbox.io/p/github/iamsuryasonar/grid_lights_problem) (code sandbox)
+    Built a grid of lights where the lights deactivate in the reverse order they were activated.
 
-  - [Dark mode](https://github.com/iamsuryasonar/dark-mode)
+  - [Dark mode](https://github.com/iamsuryasonar/dark-mode) (not hosted)
     Dark mode implementation in flutter using provider and shared preferences.
 
-  - [FirebaseRecycler](https://github.com/iamsuryasonar/FirebaseRecycler)
+  - [FirebaseRecycler](https://github.com/iamsuryasonar/FirebaseRecycler) (not hosted)
     An app to Retrieve data from firebase database and display it on a recycler view.
 
