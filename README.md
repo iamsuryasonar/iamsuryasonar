@@ -64,7 +64,11 @@
     
   - [Slider piechart problem](https://codesandbox.io/p/github/iamsuryasonar/slider_piechart_problem) (code sandbox)
     Built a slider, on increasing/ decreasing the slider, value should reflect in a pieChart.
-    
+
+###  Vanilla js
+
+  - [Fancy todo app](https://github.com/iamsuryasonar/fancy_todo.git) (not hosted)
+
 ###  Node, Express
 
   - [TempMessage](https://tempmessage-service.onrender.com/) (hosted)
