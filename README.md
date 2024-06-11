@@ -61,8 +61,9 @@
     Todo app - mark complete, undo completed todo, delete todo.
     [repo](https://github.com/iamsuryasonar/todo_app.git)
 
-  - [Simple group chat app]() (not hoisted)  
+  - Simple group chat app (not hoisted)  
     Simple group chat app using socket io. Build with node, express and react, tailwind.
+    [repo](https://github.com/iamsuryasonar/group_chat_app.git)
     
   - [Infinite carousel](https://codesandbox.io/p/github/iamsuryasonar/ReactImageCarousel) (code sandbox)
     React infinite carousel tutorial, to understand by visualising.
