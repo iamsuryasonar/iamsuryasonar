@@ -5,7 +5,8 @@
 
 - 👨‍💻 [Portfolio](https://iamsuryasonar.netlify.app)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16JCe0vNkv1ocVHaAECYc-Fy1ROaGVr5p/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://github.com/user-attachments/files/15846335/Surya_Sonar_s_resume_9_0_b.pdf)
+
 - Resources
      - [Web Snippets](https://github.com/iamsuryasonar/webdev-snippet)
 
