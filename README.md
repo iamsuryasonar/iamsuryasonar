@@ -42,7 +42,7 @@
     Backend for limo store.
     [repo](https://github.com/iamsuryasonar/Apparel-store-limo-backend.git)
 
-  - [passwordvault](https://passwordvault.netlify.app/) (hosted)
+  - [password manager](https://passwordvault.netlify.app/) (hosted)
     A secure and user-friendly password manager built with React, Node.js, Express and MongoDB.
     [repo](https://github.com/iamsuryasonar/passwordman.git) 
     
