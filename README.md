@@ -7,8 +7,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I4o1SP021PdUNHdMzjcD3ol6jW-v-eAT/view?usp=drive_link)
 
-- Resources
-     - [Web Snippets](https://github.com/iamsuryasonar/webdev-snippet)
+- Blogs and Resources
+     - [Web Snippets](https://websnippets.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +25,6 @@
 
 
 <h1 align="center">Projects</h1>
-
-> [!NOTE]
-> Hosted backends might be slow for the first api request. I'm using free servers.
 
 ###  React
   - [Limo store](https://limo-store.netlify.app/) (hosted)
@@ -53,6 +50,10 @@
   - [UniUrl](https://uniurl.netlify.app/) (hosted)
     Url sharing site built with react as frontend and nodejs and express in the backend with mongo db.
     [repo](https://github.com/iamsuryasonar/urlshare-react.git)
+
+  - [Web Snippets](https://websnippets.vercel.app/) (hosted)
+    A sleek and minimalistic blog application built with Next.js, designed to simplify the process of writing and managing personal blogs.
+    [repo](https://github.com/iamsuryasonar/markdown_blog_app.git)
     
   - [News 24x7](https://news24x7app.netlify.app/) (hosted)
     A simple React app built with Tailwind CSS that displays news articles in a carousel format. Users can sort news articles by categories.
@@ -73,6 +74,10 @@
   - [Infinite carousel](https://codesandbox.io/p/github/iamsuryasonar/ReactImageCarousel) (code sandbox)
     React infinite carousel tutorial, to understand by visualising.
     [repo](https://github.com/iamsuryasonar/ReactImageCarousalCodeTutorial.git)
+
+  - [Infinite autoplay slider](https://codesandbox.io/p/github/iamsuryasonar/InfiniteAutoPlayWithSlowAnimationSpeedOnHover) (code sandbox)
+    React infinite carousel tutorial, to understand by visualising.
+    [repo](https://github.com/iamsuryasonar/InfiniteAutoPlayWithSlowAnimationSpeedOnHover.git)
 
   - [Product cart and total price calculation problem](https://codesandbox.io/p/github/iamsuryasonar/product_cart_and_total_price_calculation_problem) (code sandbox)
     Implemented add to cart and calculated total price of all items in the cart.
