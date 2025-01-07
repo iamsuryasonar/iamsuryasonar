@@ -75,10 +75,6 @@
     React infinite carousel tutorial, to understand by visualising.
     [repo](https://github.com/iamsuryasonar/ReactImageCarousalCodeTutorial.git)
 
-  - [Infinite autoplay slider](https://codesandbox.io/p/github/iamsuryasonar/InfiniteAutoPlayWithSlowAnimationSpeedOnHover) (code sandbox)
-    React infinite carousel tutorial, to understand by visualising.
-    [repo](https://github.com/iamsuryasonar/InfiniteAutoPlayWithSlowAnimationSpeedOnHover.git)
-
   - [Product cart and total price calculation problem](https://codesandbox.io/p/github/iamsuryasonar/product_cart_and_total_price_calculation_problem) (code sandbox)
     Implemented add to cart and calculated total price of all items in the cart.
     [repo](https://github.com/iamsuryasonar/product_cart_and_total_price_calculation_problem.git)
