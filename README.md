@@ -27,39 +27,39 @@
 <h1 align="center">Projects</h1>
 
 ###  React
-  - [Limo store](https://limo-store.netlify.app/) (hosted)
+  - [Limo store](https://limo-store.netlify.app/) 
     A single vendor clothing e-commerce site.
     [repo](https://github.com/iamsuryasonar/Apparel-store-limo.git)
     
-  - [Limo store admin panel](https://admin-limo.netlify.app/) (hosted)
+  - [Limo store admin panel](https://admin-limo.netlify.app/) 
     Admin panel for limo store where admin could add products, categories and manage orders.
     [repo](https://github.com/iamsuryasonar/Apparel-store-limo-admin-panel.git)
 
-  - [Limo store backend](https://github.com/iamsuryasonar/Apparel-store-limo-backend.git) (hosted)
+  - [Limo store backend](https://github.com/iamsuryasonar/Apparel-store-limo-backend.git) 
     Backend for limo store.
     [repo](https://github.com/iamsuryasonar/Apparel-store-limo-backend.git)
 
-  - [password manager](https://passwordvault.netlify.app/) (hosted)
+  - [password manager](https://passwordvault.netlify.app/) 
     A secure and user-friendly password manager built with React, Node.js, Express and MongoDB.
     [repo](https://github.com/iamsuryasonar/passwordman.git) 
     
-  - [Portfolio](https://iamsuryasonar.netlify.app) (hosted)
+  - [Portfolio](https://iamsuryasonar.netlify.app) 
     A portfolio site to display my skills and interests.
     [repo](https://github.com/iamsuryasonar/portfolio_with_react_and_tailwind.git)
     
-  - [UniUrl](https://uniurl.netlify.app/) (hosted)
+  - [UniUrl](https://uniurl.netlify.app/) 
     Url sharing site built with react as frontend and nodejs and express in the backend with mongo db.
     [repo](https://github.com/iamsuryasonar/urlshare-react.git)
 
-  - [Web Snippets](https://websnippets.vercel.app/) (hosted)
+  - [Web Snippets](https://websnippets.vercel.app/) 
     A sleek and minimalistic blog application built with Next.js, designed to simplify the process of writing and managing personal blogs.
     [repo](https://github.com/iamsuryasonar/markdown_blog_app.git)
     
-  - [News 24x7](https://news24x7app.netlify.app/) (hosted)
+  - [News 24x7](https://news24x7app.netlify.app/) 
     A simple React app built with Tailwind CSS that displays news articles in a carousel format. Users can sort news articles by categories.
     [repo](https://github.com/iamsuryasonar/news-app.git)
     
-  - [Instagram non followers checker](https://github.com/iamsuryasonar/instagram_analytic.git) (not hosted)
+  - Instagram non followers checker
     This project is a simple web application that allows users to check for Instagram non-followers by processing provided json file. It provides a convenient way to identify users who don't follow you back on Instagram.
     [repo](https://github.com/iamsuryasonar/instagram_analytic.git)
 
@@ -67,7 +67,7 @@
     Todo app - mark complete, undo completed todo, delete todo.
     [repo](https://github.com/iamsuryasonar/todo_app.git)
 
-  - [Simple group chat app](https://github.com/iamsuryasonar/group_chat_app.git) (not hosted)  
+  - Simple group chat app
     Simple group chat app using socket io. Build with node, express and react, tailwind.
     [repo](https://github.com/iamsuryasonar/group_chat_app.git)
     
@@ -93,7 +93,7 @@
 
 ###  Vanilla js
 
-  - Fancy todo app (not hosted)
+  - Fancy todo app 
     [repo](https://github.com/iamsuryasonar/fancy_todo.git)
 
 ###  Node, Express
@@ -112,33 +112,33 @@
     A Flutter package for both android and iOS which provides Widget to blur a container. Deployed to pub.dev.
     [repo](https://github.com/iamsuryasonar/blur_container.git)
 
-  - Chat application (not hosted)
+  - Chat application 
     Chat application built using flutter and firebase realtime database.
     [repo](https://github.com/iamsuryasonar/messengerapp)
 
-  - [FlutterNotes](https://github.com/iamsuryasonar/flutterNotes) (not hosted)
+  - FlutterNotes  
     Notes app build using flutter and firebase.
     [repo](https://github.com/iamsuryasonar/flutterNotes.git)
 
-  - [WeatherApp](https://github.com/iamsuryasonar/weatherApp) (not hosted)
+  - WeatherApp  
     Flutter weather app using one api by open weather.
     [repo](https://github.com/iamsuryasonar/weatherApp.git)
     
-  - [Dark mode](https://github.com/iamsuryasonar/dark-mode) (not hosted)
+  - Dark mode  
     Dark mode implementation in flutter using provider and shared preferences.
     [repo](https://github.com/iamsuryasonar/dark-mode.git)
     
 ###  Native android (java)
 
-  - [NoteBook](https://github.com/iamsuryasonar/NoteBook) (not hosted)
+  - NoteBook  
     Note taking app built with java and firebase.
     [repo](https://github.com/iamsuryasonar/NoteBook.git)
   
-  - [CryptoRank](https://github.com/iamsuryasonar/CryptoRank) (not hosted)
+  - CryptoRank  
     Used CoinCap rest api to rank cryptocurrencies.
     [repo](https://github.com/iamsuryasonar/CryptoRank.git)
 
-  - [FirebaseRecycler](https://github.com/iamsuryasonar/FirebaseRecycler) (not hosted)
+  - FirebaseRecycler  
     An app to Retrieve data from firebase database and display it on a recycler view.
     [repo](https://github.com/iamsuryasonar/FirebaseRecycler.git)
 
