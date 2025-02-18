@@ -54,7 +54,11 @@
   - [Web Snippets](https://websnippets.vercel.app/)   
     A sleek and minimalistic blog application built with Next.js, designed to simplify the process of writing and managing personal blogs.
     [repo](https://github.com/iamsuryasonar/markdown_blog_app.git)
-    
+
+  - [Chatify](https://chatifyi.netlify.app/sign-in)   
+    A minimal chat application built with React.js and Firebase firestore.
+    [repo](https://github.com/iamsuryasonar/chatify-chat-app.git)
+
   - [News 24x7](https://news24x7app.netlify.app/)   
     A simple React app built with Tailwind CSS that displays news articles in a carousel format. Users can sort news articles by categories.
     [repo](https://github.com/iamsuryasonar/news-app.git)
