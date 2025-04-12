@@ -5,7 +5,7 @@
 
 - 👨‍💻 [Portfolio](https://iamsuryasonar.netlify.app)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EnDoy_xiKpZf208-tj2_0lYrVCIxX7Zh/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IG6pZ0VduS7yRMNVybXGxUFdvmxcmMeg/view?usp=sharing)
 
 - Blogs and Resources
      - [Web Snippets](https://websnippets.vercel.app/)
