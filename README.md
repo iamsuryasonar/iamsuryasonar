@@ -51,7 +51,7 @@
     Url sharing site built with react as frontend and nodejs and express in the backend with mongo db.
     [repo](https://github.com/iamsuryasonar/urlshare-react.git)
 
-  - Tarchive
+  - Tarchive  
     A Google Chrome extension build with WXT framework that allows users to group tabs and save them in local storage for easy access later.
     [repo](https://github.com/iamsuryasonar/tarchive)
 
