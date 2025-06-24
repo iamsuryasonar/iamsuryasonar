@@ -51,6 +51,10 @@
     Url sharing site built with react as frontend and nodejs and express in the backend with mongo db.
     [repo](https://github.com/iamsuryasonar/urlshare-react.git)
 
+  - Tarchive
+    A Google Chrome extension build with WXT framework that allows users to group tabs and save them in local storage for easy access later.
+    [repo](https://github.com/iamsuryasonar/tarchive)
+
   - [Web Snippets](https://websnippets.vercel.app/)   
     A sleek and minimalistic blog application built with Next.js, designed to simplify the process of writing and managing personal blogs.
     [repo](https://github.com/iamsuryasonar/markdown_blog_app.git)
